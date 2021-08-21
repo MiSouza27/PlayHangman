@@ -1,0 +1,4 @@
+Dica: objeto, Palavra: espelho 
+Dica: País, Palavra: Espanha 
+Dica: Comida, Palavra: espagueti 
+Dica: Profissão, Palavra: professor 
